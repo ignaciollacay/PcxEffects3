@@ -1,16 +1,14 @@
-PcxEffects3
+PcxEffects3.1
 -----------
 
-![gif](https://i.imgur.com/MrIzdAX.gif)
-![gif](https://i.imgur.com/q2OEOx1.gif)
+![git-1b](https://user-images.githubusercontent.com/37609021/218325002-cbc42d7b-9c2b-4709-b5b4-220f4114a108.gif)
+![git-2](https://user-images.githubusercontent.com/37609021/218325104-1d9b7167-76ba-44e4-96f5-0e4d76437f7d.gif)
 
-**PcxEffects3** is a [Unity] project where I tried using a point cloud
-(imported via [Pcx]) as a VFX source.
+**PcxEffects3.1** is a [Unity] project where I automated the process of importing and animating point clouds (imported via [Pcx]) as a VFX source, forked from [Keijiro's PcxEffects3](https://github.com/keijiro/PcxEffects3)
 
 [Unity]: https://unity3d.com
 [Pcx]: https://github.com/keijiro/Pcx
 
-The point cloud data was created by Thomas Flynn and shared under the Creative
-Commons Attribution license. Please see the following page for details.
+The added scripts, point cloud data and other assets were created by me.
 
-[Sketchfab - South Entrance, British Museum by Thomas Flynn](https://sketchfab.com/3d-models/south-entrance-british-museum-point-cloud-8034279ac8d249f886e62e2a65f4b519)
+[ArtStation - Delirio Circular by Ignacio Llacay](https://www.artstation.com/artwork/qeL69n)
